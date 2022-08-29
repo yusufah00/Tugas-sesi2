@@ -1,0 +1,117 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+h1{
+    margin-bottom: 20px;
+    
+}
+.front{
+    color: grey;
+    
+}
+html{
+    background:rgb(235, 232, 232);
+}
+.kontak{
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+    border-radius: 10px;
+    border: 1%;
+    margin-top: 30px;
+}
+.resume{
+    padding: 10px 22px;
+    background: white;
+    border: 1%;
+    color: green;
+    border-radius: 10px;
+}
+.datadiri{
+    background: white;
+    width: 100%;
+    height:25px;
+}
+.profil{
+    padding-right: 30;
+}
+.profil2{
+    border-left: 2px solid rgb(206, 206, 206);
+    padding-left:20px;
+    padding-right: 15px;
+}
+.profil3{
+    color: grey;
+    padding-right: 420px;
+}
+.jarak{
+    padding-top: 30px;
+}
+.inputdata{
+    background: white;
+}
+
+.inputnama{
+    width: 99%;
+    height:25px;
+}
+.role{
+    padding-top: 20px;
+}
+.inputrole{
+    width: 99%;
+    height:25px;
+}
+.availability{
+    padding-top: 20px;
+}
+.inputavailability{
+    width: 99%;
+    height:25px;
+}
+.age{
+    padding-top: 20px;
+}
+.inputage{
+    width: 99%;
+    height:25px;
+}
+.lokasi{
+    padding-top: 20px;
+}
+.inputlokasi{
+    width: 99%;
+    height:25px;
+}
+.years{
+    padding-top: 20px;
+}
+.inputyears{
+    width: 99%;
+    height:25px;
+}
+.email{
+    padding-top: 20px;
+}
+.inputemail{
+    width: 99%;
+    height:25px;
+}
+.divsubmit{
+    padding-top: 20px;
+}
+.submit{
+    width: 99%;
+    height:30px;
+    font-size:medium;
+    color: white;
+    background: green;
+    border-radius: 5px;
+}
